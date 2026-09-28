@@ -2,6 +2,10 @@
 
 A software-only hydration tracker for patients. It logs water intake, shows progress on a bottle that fills through the day, and reminds the patient to drink at set intervals. No smart bottle or sensor is needed.
 
+## Live website
+
+[Open Patient Hydration Reminder](https://kshitijchambhare-boop.github.io/patient-Hydration-Bottle-reminder/)
+
 Built with plain HTML, CSS and JavaScript. No build step, no dependencies.
 
 ## Features
